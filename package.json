@@ -1,0 +1,25 @@
+{
+  "name": "whoami-microservice",
+  "version": "1.0.0",
+  "description": "A microservice giving information about the user accessing it.",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eiselems/whoami-microservice"
+  },
+  "homepage": "https://github.com/eiselems/whoami-microservice",
+  "bugs": "https://github.com/eiselems/whoami-microservice/issues",
+  "keywords": [
+    "Express",
+    "Node"
+  ],
+  "scripts": {
+  "start": "node server.js"
+  },
+  "author": "Marcus Eisele",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.4"
+
+  }
+}
